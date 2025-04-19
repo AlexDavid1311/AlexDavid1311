@@ -42,7 +42,7 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/alexdavidjj" target="blank">
+  <a href="https://www.linkedin.com/in/alex-david-01923b263/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="alexdavidjj" height="30" width="30" />
   </a>
   &nbsp;&nbsp;
@@ -50,6 +50,7 @@
     <img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="email" height="30" width="30" />
   </a>
 </p>
+
 
 ---
 
