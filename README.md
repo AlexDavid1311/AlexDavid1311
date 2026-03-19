@@ -14,7 +14,8 @@
 - 💻 6 months of experience as a **Freelance Frontend Developer**
 - 🏫 Hands-on experience in **Web Development through Academic Internship**
 - 🔭 Currently building **real-time web development projects**
-- 🌍 Actively looking for an **on-site Web Developer role**
+- ⚡ Working in an **Agile development environment**
+- 🧠 Familiar with **PostgreSQL, Postman, Jira, and Slack**
 - 🚀 Passionate about creating responsive and user-friendly web applications
 
 ---
@@ -23,9 +24,9 @@
 
 - **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap  
 - **Backend:** PHP  
-- **Database:** MySQL  
+- **Database:** MySQL, PostgreSQL  
 - **Programming:** Python  
-- **Tools:** Git, VS Code  
+- **Tools:** Git, VS Code, Postman, Jira, Slack  
 
 ---
 
