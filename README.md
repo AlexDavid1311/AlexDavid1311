@@ -17,6 +17,10 @@
 - 🚀 Passionate about creating responsive and user-friendly web applications
 
 ---
+### 📄 Resume
+
+- 📥 Check out my Resume & Portfolio:  
+  👉 [View Here](https://my-portfolio-9h4j.vercel.app/)
 
 ### 🛠️ Skills & Technologies
 
